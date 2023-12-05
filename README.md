@@ -2,7 +2,8 @@
 ## code.py 
 is the simulation of an MES System for an robotic assembly line with graphical user internface. 
 
-## wscode.py is the simulation of MES system with extention of WebService interface for registring new order and also fetching updates about the status of a registered order. 
+## wscode.py 
+is the simulation of MES system with extention of WebService interface for registring new order and also fetching updates about the status of a registered order. 
 the webserivce extension is implemented by Flask. 
 
 ## wstest.py 
