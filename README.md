@@ -12,5 +12,6 @@ is a simple code to call the provided service internface by wscode.py and regist
 ## checkStatus.py 
 checks the status of a given order by ID  through provided WS interface by Webservice extention on wscode.py.
 
-Video on Youtube of the project run time (https://youtu.be/0clZ4yqH6yY
-)![image](https://github.com/ghofrani85/MES_Simulation/assets/19925866/87c310e3-1e59-4715-aed1-9408d2e9afda)
+Video on Youtube of the project run time (https://youtu.be/0clZ4yqH6yY)
+
+
